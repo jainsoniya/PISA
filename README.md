@@ -13,7 +13,7 @@ Mathematics is an intense subject. Apart from crunching numbers in mind or in ca
 - How teachers support their students in advance in their academia?
 
 ## About dataset
-This dataset contains 172491 rows and 636 columns. Out of 636 variables, I shortlisted 17 variables for the purpose of exploration.
+This dataset contains 172491 rows and 636 columns. Out of 636 variables, I shortlisted 17 variables for the purpose of exploration. You can find the detailed explorations in [PISA-exploratory.ipynb](https://github.com/jainsoniya/PISA/blob/master/PISA-%20exploratory.ipynb)
 
 
 # Summary of findings:
@@ -32,8 +32,4 @@ I investigated this dataset with a goal of searching cause and relationship of a
 
     Interestingly, teachers' support and their relations with student have negative impact on students’ performance. It is seen that if the students have teachers' support, then they under perform. On the contrary, if the student does not have teacher's support, they put in more efforts and score higher marks.
 
-
-
-## Key Insights for Presentation
-
-For the presentation, I focus on exploring the individual variables which are relevant to my thesis. The primary variable I am focussing on `math_score` beacuse this variable is dependent on 16 other independent variables. Then I continue to see the correlation of 'math_score' with other independent variables in Bivariate exploration. In Multivariate explorations, I tried to combine 2 or more numeric variables and categoric variables with `math_score` to see if there is any interaction present.
+You can find the visualtions of the above findings in [PISA-explanatory.ipynb](https://github.com/jainsoniya/PISA/blob/master/PISA-explanatory.ipynb)
