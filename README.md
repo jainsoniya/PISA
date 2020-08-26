@@ -32,4 +32,4 @@ I investigated this dataset with a goal of searching cause and relationship of a
 
     Interestingly, teachers' support and their relations with student have negative impact on students’ performance. It is seen that if the students have teachers' support, then they under perform. On the contrary, if the student does not have teacher's support, they put in more efforts and score higher marks.
 
-You can find the visualtions of the above findings in [PISA-explanatory.ipynb](https://github.com/jainsoniya/PISA/blob/master/PISA-explanatory.ipynb)
+You can find the visualizations of the above findings in [PISA-explanatory.ipynb](https://github.com/jainsoniya/PISA/blob/master/PISA-explanatory.ipynb)
